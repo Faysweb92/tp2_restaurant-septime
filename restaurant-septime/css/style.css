@@ -1,0 +1,36 @@
+header {
+  display: flex;
+  margin: auto;
+  width: 50px;
+}
+
+main {
+  flex-direction: column;
+  width: 500px;
+  margin: auto;
+  
+}
+
+.image > img {
+  height: 300px;
+  width: 300px;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+}
+
+ul > li {
+  margin: 0px 10px;
+}
+
+section {
+  display: flex;
+}
+
+footer {
+  display: flex;
+  margin: auto;
+  width: 30%;
+}
